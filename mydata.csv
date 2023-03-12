@@ -1,0 +1,493 @@
+﻿Match_number,Target_Fencer,Opponents,ST,OST,Backfoot,O_Backfoot,Outcome,Defense_movement,Place_When_Finish,Choice,Outcome
+1,Lulian_Teodosiu,Maxime_Pianfetti,Advance_Launch,Advance_Launch,Behind,Pass,Simu,,,,
+1,Maxime_Pianfetti,Lulian_Teodosiu,Advance_Launch,Advance_Launch,Pass,Behind,Simu,,,,
+1,Lulian_Teodosiu,Maxime_Pianfetti,Advance_Launch,Advance_Stop,Behind,Pass,Short,4,Before_Warning,Launch,Miss
+1,Maxime_Pianfetti,Lulian_Teodosiu,Advance_Stop,Advance_Launch,Pass,Behind,O_Short,4,Before_Warning,Launch,Miss
+1,Lulian_Teodosiu,Maxime_Pianfetti,Advance_Launch,Advance_Big_Advance,Behind,Pass,Parry,,,,
+1,Maxime_Pianfetti,Lulian_Teodosiu,Advance_Big_Advance,Advance_Launch,Pass,Behind,O_Parry,,,,
+1,Lulian_Teodosiu,Maxime_Pianfetti,Advance_Stop,Advance_Stop,Behind,Pass,Take_Over,1,En_Guard_Line,Advance,Counter_Attack
+1,Maxime_Pianfetti,Lulian_Teodosiu,Advance_Stop,Advance_Stop,Pass,Behind,O_Take_Over,1,En_Guard_Line,Advance,Counter_Attack
+1,Lulian_Teodosiu,Maxime_Pianfetti,Advance_Launch,Advance_Launch,On,On,Simu,,,,
+1,Maxime_Pianfetti,Lulian_Teodosiu,Advance_Launch,Advance_Launch,On,On,Simu,,,,
+1,Lulian_Teodosiu,Maxime_Pianfetti,Advance_Launch,Advance_Stop,Behind,Pass,Short,4,Before_Warning,Launch,Attack
+1,Maxime_Pianfetti,Lulian_Teodosiu,Advance_Stop,Advance_Launch,Pass,Behind,O_Short,4,Before_Warning,Launch,Attack
+2,Aron_Szilagyi,Sandro_Bazadze,Advance_Launch,Advance_Stop,On,Behind,Attack,,,,
+2,Sandro_Bazadze,Aron_Szilagyi,Advance_Stop,Advance_Launch,Behind,On,O_Attack,,,,
+2,Aron_Szilagyi,Sandro_Bazadze,Advance_Launch,Double_Advance,Behind,Pass,Parry,,,,
+2,Sandro_Bazadze,Aron_Szilagyi,Double_Advance,Advance_Launch,Pass,Behind,O_Parry,,,,
+2,Aron_Szilagyi,Sandro_Bazadze,Advance_Launch,Advance_Stop,Behind,Pass,Short,0,Mid,Attack,O_Parry
+2,Sandro_Bazadze,Aron_Szilagyi,Advance_Stop,Advance_Launch,Pass,Behind,O_Short,0,Mid,Attack,Parry
+2,Aron_Szilagyi,Sandro_Bazadze,Advance_Stop,Double_Advance_Launch,On,Pass,Attack,,,,
+2,Sandro_Bazadze,Aron_Szilagyi,Double_Advance_Launch,Advance_Stop,Pass,On,O_Attack,,,,
+2,Aron_Szilagyi,Sandro_Bazadze,Advance_Stop,Advance_Stop,Pass,Behind,O_Take_Over,,,,
+2,Sandro_Bazadze,Aron_Szilagyi,Advance_Stop,Advance_Stop,Behind,Pass,Take_Over,,,,
+2,Aron_Szilagyi,Sandro_Bazadze,Double_Advance_Stop,Double_Advance_Launch,Behind,Pass,O_Miss,,,,
+2,Sandro_Bazadze,Aron_Szilagyi,Double_Advance_Launch,Double_Advance_Stop,Pass,Behind,Miss,,,,
+3,Krisztian_Rabb,Remi_Garrigue,Double_Advance_Launch,Advance_Stop,Pass,Behind,Attack,,,,
+3,Remi_Garrigue,Krisztian_Rabb,Advance_Stop,Double_Advance_Launch,Behind,Pass,O_Attack,,,,
+3,Krisztian_Rabb,Remi_Garrigue,Double_Advance_Launch,Double_Advance_Launch,Behind,Pass,O_Attack,,,,
+3,Remi_Garrigue,Krisztian_Rabb,Double_Advance_Launch,Double_Advance_Launch,Pass,Behind,Attack,,,,
+3,Krisztian_Rabb,Remi_Garrigue,Advance_Big_Advance,Double_Advance_Launch,Behind,Pass,O_Hit_Prep,,,,
+3,Remi_Garrigue,Krisztian_Rabb,Double_Advance_Launch,Advance_Big_Advance,Pass,Behind,Hit_Prep,,,,
+3,Krisztian_Rabb,Remi_Garrigue,Double_Advance_Launch,Advance_Launch,Pass,Pass,Simu,,,,
+3,Remi_Garrigue,Krisztian_Rabb,Advance_Launch,Double_Advance_Launch,Pass,Pass,Simu,,,,
+3,Krisztian_Rabb,Remi_Garrigue,Double_Advance_Stop,Advance_Stop,Behind,Pass,Take_Over,3,Warning,Flunge,Attack
+3,Remi_Garrigue,Krisztian_Rabb,Advance_Stop,Double_Advance_Stop,Pass,Behind,O_Take_Over,3,Warning,Flunge,O_Attack
+3,Krisztian_Rabb,Remi_Garrigue,Double_Advance_Launch,Double_Advance,Pass,Behind,Parry,0,Mid,Attack,O_Attack
+3,Remi_Garrigue,Krisztian_Rabb,Double_Advance,Double_Advance_Launch,Behind,Pass,O_Parry,0,Mid,Attack,Attack
+4,Eli_Dershwitz,Luigi_Samele,Advance_Stop,Advance_Stop,On,Behind,Take_Over,0,Before_Warning,Advance_Launch,Attack
+4,Luigi_Samele,Eli_Dershwitz,Advance_Stop,Advance_Stop,Behind,On,O_Take_Over,0,Before_Warning,Advance_Launch,O_Attack
+4,Eli_Dershwitz,Luigi_Samele,Double_Advance_Big_Advance,Double_Advance_Launch,Pass,Behind,O_Hit_Prep,,,,
+4,Luigi_Samele,Eli_Dershwitz,Double_Advance_Launch,Double_Advance_Big_Advance,Behind,Pass,Hit_Prep,,,,
+4,Eli_Dershwitz,Luigi_Samele,Double_Advance_Stop,Advance_Stop,Behind,Pass,O_Take_Over,0,Mid,Advance_Launch,O_Attack
+4,Luigi_Samele,Eli_Dershwitz,Advance_Stop,Double_Advance_Stop,Pass,Behind,Take_Over,0,Mid,Advance_Launch,Attack
+4,Eli_Dershwitz,Luigi_Samele,Advance_Stop,Advance_Stop,Behind,Pass,O_Take_Over,0,Mid,Advance_Launch,O_Attack
+4,Luigi_Samele,Eli_Dershwitz,Advance_Stop,Advance_Stop,Pass,Behind,Take_Over,0,Mid,Advance_Launch,Attack
+4,Eli_Dershwitz,Luigi_Samele,Double_Advance_Launch,Advance_Stop,Pass,Pass,Attack,,,,
+4,Luigi_Samele,Eli_Dershwitz,Advance_Stop,Double_Advance_Launch,Pass,Pass,O_Attack,,,,
+4,Eli_Dershwitz,Luigi_Samele,Advance_Launch,Advance_Stop,Pass,Behind,Parry,,,,
+4,Luigi_Samele,Eli_Dershwitz,Advance_Stop,Advance_Launch,Behind,Pass,O_Parry,,,,
+5,Oh_Sanguk,Aron_Szilagyi,Advance_Stop,Advance_Launch,Behind,Pass,O_Short,5,Warning,Advance_Launch,Attack
+5,Aron_Szilagyi,Oh_Sanguk,Advance_Launch,Advance_Stop,Pass,Behind,Short,5,Warning,Advance_Launch,O_Attack
+5,Oh_Sanguk,Aron_Szilagyi,Double_Advance_Launch,Advance_Stop,Pass,Behind,Parry,,,,
+5,Aron_Szilagyi,Oh_Sanguk,Advance_Stop,Double_Advance_Launch,Behind,Pass,O_Parry,,,,
+5,Oh_Sanguk,Aron_Szilagyi,Advance_Launch,Half_Step_Advance_Launch,Behind,Pass,Attack,,,,
+5,Aron_Szilagyi,Oh_Sanguk,Half_Step_Advance_Launch,Advance_Launch,Pass,Behind,O_Attack,,,,
+5,Oh_Sanguk,Aron_Szilagyi,Advance_Stop,Advance_Stop,Behind,Behind,O_Take_Over,4,Mid,Launch,Miss
+5,Aron_Szilagyi,Oh_Sanguk,Advance_Stop,Advance_Stop,Behind,Behind,Take_Over,4,Mid,Launch,Miss
+5,Oh_Sanguk,Aron_Szilagyi,Advance_Stop,Half_Step_Advance_Launch,Pass,Behind,Take_Over,2,Warning,Flunge,Attack
+5,Aron_Szilagyi,Oh_Sanguk,Half_Step_Advance_Launch,Advance_Stop,Behind,Pass,O_Take_Over,2,Warning,Flunge,O_Attack
+5,Oh_Sanguk,Aron_Szilagyi,Advance_Launch,Advance_Launch,Behind,Pass,O_Attack,,,,
+5,Aron_Szilagyi,Oh_Sanguk,Advance_Launch,Advance_Launch,Behind,Pass,Attack,,,,
+6,Mackiewics_Andrew,Homer_Daryl,Double_Advance_Launch,Double_Advance_Launch,Pass,Behind,O_Hit_Prep,,,,
+6,Homer_Daryl,Mackiewics_Andrew,Double_Advance_Launch,Double_Advance_Launch,Behind,Pass,Hit_Prep,,,,
+6,Mackiewics_Andrew,Homer_Daryl,Double_Advance_Launch,Double_Advance_Launch,Behind,Pass,Hit_Prep,,,,
+6,Homer_Daryl,Mackiewics_Andrew,Double_Advance_Launch,Double_Advance_Launch,Pass,Behind,O_Hit_Prep,,,,
+6,Mackiewics_Andrew,Homer_Daryl,Double_Advance_Stop,Double_Advance_Launch,Behind,Pass,O_Short,1,En_Guard_Line,Advance_Launch,Attack
+6,Homer_Daryl,Mackiewics_Andrew,Double_Advance_Launch,Double_Advance_Stop,Pass,Behind,Short,1,En_Guard_Line,Advance_Launch,O_Attack
+6,Mackiewics_Andrew,Homer_Daryl,Double_Advance_Launch,Double_Advance_Launch,On,On,Hit_Prep,,,,
+6,Homer_Daryl,Mackiewics_Andrew,Double_Advance_Launch,Double_Advance_Launch,Behind,Behind,O_Hit_Prep,,,,
+6,Mackiewics_Andrew,Homer_Daryl,Double_Advance_Stop,Double_Advance_Launch,On,Pass,O_Short,1,Mid,Advance_Launch,Miss
+6,Homer_Daryl,Mackiewics_Andrew,Double_Advance_Launch,Double_Advance_Stop,Pass,On,Short,1,Mid,Advance_Launch,Miss
+6,Mackiewics_Andrew,Homer_Daryl,Advance_Launch,Advance_Launch,Behind,Behind,O_Attack,,,,
+6,Homer_Daryl,Mackiewics_Andrew,Advance_Launch,Advance_Launch,Behind,Behind,Attack,,,,
+7,Liang_Jianghao,Csanad_Gemesi,Double_Advance_Stop,Double_Advance_Launch,Behind,Pass,O_Short,1,En_Guard_Line,Advance_Launch,Counter_Attack
+7,Csanad_Gemesi,Liang_Jianghao,Double_Advance_Launch,Double_Advance_Stop,Pass,Behind,Short,1,En_Guard_Line,Advance_Launch,Counter_Attack
+7,Liang_Jianghao,Csanad_Gemesi,Double_Advance_Launch,Double_Advance_Launch,Behind,Pass,O_Attack,,,,
+7,Csanad_Gemesi,Liang_Jianghao,Double_Advance_Launch,Double_Advance_Launch,Pass,Behind,Attack,,,,
+7,Liang_Jianghao,Csanad_Gemesi,Advance_Stop,Double_Advance,Behind,Pass,O_Take_Over,0,En_Guard_Line,Advance_Launch,Miss
+7,Csanad_Gemesi,Liang_Jianghao,Double_Advance,Advance_Stop,Behind,Pass,Take_Over,0,En_Guard_Line,Advance_Launch,Miss
+7,Liang_Jianghao,Csanad_Gemesi,Double_Advance_Stop,Double_Advance_Stop,On,On,O_Parry,,,,
+7,Csanad_Gemesi,Liang_Jianghao,Double_Advance_Stop,Double_Advance_Stop,On,On,Parry,,,,
+7,Liang_Jianghao,Csanad_Gemesi,Double_Advance_Launch,Double_Advance_Stop,On,On,Short,4,Before_Warning,Advance,Counter_Attack
+7,Csanad_Gemesi,Liang_Jianghao,Double_Advance_Stop,Double_Advance_Launch,On,On,O_Short,4,Before_Warning,Advance,Counter_Attack
+7,Liang_Jianghao,Csanad_Gemesi,Double_Advance_Launch,Double_Advance_Launch,Behind,Pass,Hit_Prep,,,,
+7,Csanad_Gemesi,Liang_Jianghao,Double_Advance_Launch,Double_Advance_Launch,Pass,Behind,O_Hit_Prep,,,,
+8,Kim_Junghwan,Kim_Junho,Advance_Launch,Advance_Stop,On,On,Attack,,,,
+8,Kim_Junho,Kim_Junghwan,Advance_Stop,Advance_Launch,On,On,O_Attack,,,,
+8,Kim_Junghwan,Kim_Junho,Advance_Launch,Advance_Stop,On,On,Short,0,Mid,Flunge,O_Parry
+8,Kim_Junho,Kim_Junghwan,Advance_Stop,Advance_Launch,On,On,O_Short,0,Mid,Flunge,Parry
+8,Kim_Junghwan,Kim_Junho,Advance_Launch,Advance_Big_Advance,On,Pass,Parry,,,,
+8,Kim_Junho,Kim_Junghwan,Advance_Big_Advance,Advance_Launch,Pass,On,O_Parry,,,,
+8,Kim_Junghwan,Kim_Junho,Advance_Stop,Advance_Stop,On,On,Take_Over,,,,
+8,Kim_Junho,Kim_Junghwan,Advance_Stop,Advance_Stop,On,On,O_Take_Over,,,,
+8,Kim_Junghwan,Kim_Junho,Double_Advance_Launch,Advance_Stop,Pass,On,Short,3,Warning,Flunge,O_Parry
+8,Kim_Junho,Kim_Junghwan,Advance_Stop,Double_Advance_Launch,On,Pass,O_Short,3,Warning,Flunge,Parry
+8,Kim_Junghwan,Kim_Junho,Advance_Launch,Advance_Big_Advance,On,Pass,Hit_Prep,,,,
+8,Kim_Junho,Kim_Junghwan,Advance_Big_Advance,Advance_Launch,Pass,On,O_Hit_Prep,,,,
+9,Michele_Gallo,Ali_Pakdaman,Advance_Launch,Advance_Launch,On,On,Attack,,,,
+9,Ali_Pakdaman,Michele_Gallo,Advance_Launch,Advance_Launch,On,On,O_Attack,,,,
+9,Michele_Gallo,Ali_Pakdaman,Advance_Stop,Advance_Stop,Pass,On,Take_Over,0,En_Guard_Line,Advance_Launch,Miss
+9,Ali_Pakdaman,Michele_Gallo,Advance_Stop,Advance_Stop,On,Pass,O_Take_Over,0,En_Guard_Line,Advance_Launch,Miss
+9,Michele_Gallo,Ali_Pakdaman,Advance_Launch,Advance_Launch,On,On,Short,1,En_Guard_Line,Launch,Miss
+9,Ali_Pakdaman,Michele_Gallo,Advance_Stop,Advance_Stop,On,On,O_Short,1,En_Guard_Line,Launch,Miss
+9,Michele_Gallo,Ali_Pakdaman,Advance_Stop,Advance_Launch,On,Pass,O_Attack,,,,
+9,Ali_Pakdaman,Michele_Gallo,Advance_Launch,Advance_Launch,Pass,On,Attack,,,,
+9,Michele_Gallo,Ali_Pakdaman,Advance_Launch,Advance_Stop,On,Pass,Short,0,En_Guard_Line,Advance,Counter_Attack
+9,Ali_Pakdaman,Michele_Gallo,Advance_Stop,Advance_Launch,On,Pass,O_Short,0,En_Guard_Line,Advance,Counter_Attack
+9,Michele_Gallo,Ali_Pakdaman,Advance_Launch,Advance_Launch,Behind,Pass,O_Attack,,,,
+9,Ali_Pakdaman,Michele_Gallo,Advance_Launch,Advance_Launch,Pass,Behind,Attack,,,,
+10,Hwang_Seungmin,Barney_Halliwell,Double_Advance_Launch,Double_Advance_Launch,Pass,On,Attack,,,,
+10,Barney_Halliwell,Hwang_Seungmin,Double_Advance_Launch,Double_Advance_Launch,Pass,On,O_Attack,,,,
+10,Hwang_Seungmin,Barney_Halliwell,Advance_Half_Step_Launch,Double_Advance_Stop,On,Pass,Short,3,Mid,Advance_Launch,O_Attack
+10,Barney_Halliwell,Hwang_Seungmin,Double_Advance_Stop,Advance_Half_Step_Launch,Pass,On,O_Short,3,Mid,Advance_Launch,Attack
+10,Hwang_Seungmin,Barney_Halliwell,Double_Advance_Stop,Half_Step_Advance_Launch,Pass,Behind,O_Short,0,Mid,Attack,Miss
+10,Barney_Halliwell,Hwang_Seungmin,Half_Step_Advance_Launch,Double_Advance_Stop,Behind,Pass,Short,0,Mid,Attack,Miss
+10,Hwang_Seungmin,Barney_Halliwell,Half_Step_Advance_Stop,Double_Advance_Launch, Pass,Pass,O_Attack,,,,
+10,Barney_Halliwell,Hwang_Seungmin,Double_Advance_Launch,Half_Step_Advance_Stop,Pass,Pass,Attack,,,,
+10,Hwang_Seungmin,Barney_Halliwell,Advance_Launch,Half_Step_Advance_Stop,On,On,Parry,,,,
+10,Barney_Halliwell,Hwang_Seungmin,Half_Step_Advance_Stop,Advance_Launch,On,On,O_Parry,,,,
+10,Hwang_Seungmin,Barney_Halliwell,Advance_Stop,Double_Advance_Launch,Pass,Behind,O_Parry,3,En_Guard_Line,Advance_Launch,Attack
+10,Barney_Halliwell,Hwang_Seungmin,Double_Advance_Launch,Advance_Stop,Behind,Pass,Parry,3,En_Guard_Line,Advance_Launch,O_Attack
+11,Yury_Tsap,Sebastien_Patrice,Advance_Stop,Double_Advance_Stop,Pass,Behind,O_Take_Over,0,Mid,Launch,O_Attack
+11,Sebastien_Patrice,Yury_Tsap,Double_Advance_Stop,Advance_Stop,Behind,Pass,Take_Over,0,Mid,Launch,Attack
+11,Yury_Tsap,Sebastien_Patrice,Advance_Launch,Advance_Stop,Pass,Behind,Short,4,Before_Warning,Advance_Launch,O_Parry
+11,Sebastien_Patrice,Yury_Tsap,Advance_Stop,Advance_Launch,Behind,Pass,O_Short,4,Before_Warning,Advance_Launch,Parry
+11,Yury_Tsap,Sebastien_Patrice,Double_Advance_Launch,Double_Advance_Launch,Behind,Behind,O_Attack,,,,
+11,Sebastien_Patrice,Yury_Tsap,Double_Advance_Launch,Double_Advance_Launch,Behind,Behind,Attack,,,,
+11,Yury_Tsap,Sebastien_Patrice,Advance_Launch,Double_Advance_Launch,Pass,Behind,Attack,,,,
+11,Sebastien_Patrice,Yury_Tsap,Double_Advance_Launch,Advance_Launch,Behind,Pass,O_Attack,,,,
+11,Yury_Tsap,Sebastien_Patrice,Double_Advance,Advance_Flunge,On,On,O_Attack,,,,
+11,Sebastien_Patrice,Yury_Tsap,Advance_Flunge,Double_Advance,On,On,Attack,,,,
+11,Yury_Tsap,Sebastien_Patrice,Advance_Stop,Advance_Stop,Pass,Pass,O_Short,,,,
+11,Sebastien_Patrice,Yury_Tsap,Advance_Launch,Advance_Launch,Pass,Pass,Short,,,,
+12,Sung_Hyeonmo,Colin_Heathcock,Advance_Stop,Advance_Stop,Pass,Behind,Take_Over,,,,
+12,Colin_Heathcock,Sung_Hyeonmo,Advance_Stop,Advance_Stop,Pass,Behind,O_Take_Over,,,,
+12,Sung_Hyeonmo,Colin_Heathcock,Double_Advance_Launch,Half_Step_Advance_Launch,Pass,Behind,O_Attack,,,,
+12,Colin_Heathcock,Sung_Hyeonmo,Half_Step_Advance_Launch,Double_Advance_Launch,Behind,Pass,Attack,,,,
+12,Sung_Hyeonmo,Colin_Heathcock,Advance_Launch,Double_Advance_Stop,On,Behind,Parry,,,,
+12,Colin_Heathcock,Sung_Hyeonmo,Double_Advance_Stop,Advance_Launch,Behind,On,O_Parry,,,,
+12,Sung_Hyeonmo,Colin_Heathcock,Double_Advance_Stop,Double_Advance_Launch,On,Pass,O_Attack,,,,
+12,Colin_Heathcock,Sung_Hyeonmo,Double_Advance_Launch,Double_Advance_Stop,Pass,On,Attack,,,,
+12,Sung_Hyeonmo,Colin_Heathcock,Advance_Launch,Advance_Launch,On,On,Attack,,,,
+12,Colin_Heathcock,Sung_Hyeonmo,Advance_Launch,Advance_Launch,On,On,O_Attack,,,,
+12,Sung_Hyeonmo,Colin_Heathcock,Advance_Stop,Double_Advance_Launch,Pass,Behind,O_Parry,,,,
+12,Colin_Heathcock,Sung_Hyeonmo,Double_Advance_Launch,Advance_Stop,Behind,Pass,Parry,,,,
+13,Gigi_Samele,Mohammad_Fatouhi,Advance_Launch,Advance_Stop,Behind,Behind,Short,3,Warning,Advance_Launch,O_Attack
+13,Mohammad_Fatouhi,Gigi_Samele,Advance_Stop,Advance_Launch,Behind,Behind,O_Short,3,Warning,Advance_Launch,Attack
+13,Gigi_Samele,Mohammad_Fatouhi,Double_Advance_Launch,Double_Advance_Stop,Behind,Pass,Hit_Prep,,,,
+13,Mohammad_Fatouhi,Gigi_Samele,Double_Advance_Stop,Double_Advance_Launch,Pass,Behind,O_Hit_Prep,,,,
+13,Gigi_Samele,Mohammad_Fatouhi,Double_Advance_Launch,Advance_Stop,Pass,Pass,Short,0,Mid,Attack,O_Attack
+13,Mohammad_Fatouhi,Gigi_Samele,Advance_Stop,Double_Advance_Launch,Pass,Pass,O_Short,0,Mid,Attack,Attack
+13,Gigi_Samele,Mohammad_Fatouhi,Advance_Stop,Double_Advance_Launch,Behind,Pass,O_Attack,,,,
+13,Mohammad_Fatouhi,Gigi_Samele,Double_Advance_Launch,Advance_Stop,Pass,Behind,Attack,,,,
+13,Gigi_Samele,Mohammad_Fatouhi,Advance_Launch,Advance_Launch,Behind,Pass,Hit_Prep,,,,
+13,Mohammad_Fatouhi,Gigi_Samele,Advance_Launch,Advance_Launch,Pass,Behind,O_Hit_Prep,,,,
+13,Gigi_Samele,Mohammad_Fatouhi,Advance_Launch,Advance_Launch,On,On,O_Attack,,,,
+13,Mohammad_Fatouhi,Gigi_Samele,Advance_Launch,Advance_Launch,On,On,Attack,,,,
+14,Codrin_Cozmuleanu,Razvan_Ursachi,Double_Advance_Launch,Double_Advance_Launch,On,Behind,Short,2,Before_Warning,Launch,Miss
+14,Razvan_Ursachi,Codrin_Cozmuleanu,Double_Advance_Launch,Double_Advance_Launch,Behind,On,O_Short,2,Before_Warning,Launch,Miss
+14,Codrin_Cozmuleanu,Razvan_Ursachi,Double_Advance_Launch,Double_Advance_Launch,On,Behind,O_Attack,,,,
+14,Razvan_Ursachi,Codrin_Cozmuleanu,Double_Advance_Launch,Double_Advance_Launch,Behind,On,Attack,,,,
+14,Codrin_Cozmuleanu,Razvan_Ursachi,Double_Advance_Launch,Double_Advance_Launch,On,Behind,Short,0,Mid,Attack,O_Parry
+14,Razvan_Ursachi,Codrin_Cozmuleanu,Double_Advance_Launch,Double_Advance_Launch,Behind,On,O_Short,0,Mid,Attack,Parry
+14,Codrin_Cozmuleanu,Razvan_Ursachi,Advance_Stop,Double_Advance_Launch,Pass,Behind,O_Attack,,,,
+14,Razvan_Ursachi,Codrin_Cozmuleanu,Double_Advance_Launch,Advance_Stop,Behind,Pass,Attack,,,,
+14,Codrin_Cozmuleanu,Razvan_Ursachi,Double_Advance_Launch,Double_Advance_Stop,On,Behind,Short,3,Warning,Launch,O_Parry
+14,Razvan_Ursachi,Codrin_Cozmuleanu,Double_Advance_Stop,Double_Advance_Launch,Behind,On,O_Short,3,Warning,Launch,Parry
+14,Codrin_Cozmuleanu,Razvan_Ursachi,Advance_Stop,Double_Advance_Launch,On,Behind,O_Short,1,Mid,Advance_Launch,Attack
+14,Razvan_Ursachi,Codrin_Cozmuleanu,Double_Advance_Launch,Advance_Stop,Behind,On,Short,1,Mid,Advance_Launch,O_Attack
+15,Inaki_Bravo,Will_Deary,Double_Advance_Stop,Advance_Stop,On,Behind,Take_Over,2,Warning,Advance_Launch,Miss
+15,Will_Deary,Inaki_Bravo,Advance_Stop,Double_Advance_Stop,Behind,On,O_Take_Over,2,Warning,Advance_Launch,Miss
+15,Inaki_Bravo,Will_Deary,Double_Advance_Stop,Double_Advance_Launch,On,Behind,O_Attack,,,,
+15,Will_Deary,Inaki_Bravo,Double_Advance_Launch,Double_Advance_Stop,Behind,On,Attack,,,,
+15,Inaki_Bravo,Will_Deary,Double_Advance_Stop,Double_Advance,Behind,Pass,O_Take_Over,1,Mid,Advance,O_Parry
+15,Will_Deary,Inaki_Bravo,Double_Advance,Double_Advance_Stop,Pass,Behind,Take_Over,1,Mid,Advance,Parry
+15,Inaki_Bravo,Will_Deary,Double_Advance_Stop,Double_Advance_Stop,Behind,Behind,Simu,,,,
+15,Will_Deary,Inaki_Bravo,Double_Advance_Stop,Double_Advance_Stop,Behind,Behind,Simu,,,,
+15,Inaki_Bravo,Will_Deary,Double_Advance_Launch,Advance_Half_Step_Launch,Pass,Behind,O_Attack,,,,
+15,Will_Deary,Inaki_Bravo,Advance_Half_Step_Launch,Double_Advance_Launch,Behind,Pass,Attack,,,,
+15,Inaki_Bravo,Will_Deary,Advance_Stop,Advance_Half_Step_Launch,Behind,Pass,O_Attack,,,,
+15,Will_Deary,Inaki_Bravo,Advance_Half_Step_Launch,Advance_Stop,Pass,Behind,Attack,,,,
+16,Tokunan_Kenta,Bolade_Apithy,Double_Advance_Launch,Half_Step_Advance_Launch,Pass,Behind,O_Hit_Prep,,,,
+16,Bolade_Apithy,Tokunan_Kenta,Half_Step_Advance_Launch,Double_Advance_Launch,Behind,Pass,Hit_Prep,,,,
+16,Tokunan_Kenta,Bolade_Apithy,Double_Advance_Launch,Double_Advance_Stop,Pass,Behind,Attack,,,,
+16,Bolade_Apithy,Tokunan_Kenta,Double_Advance_Stop,Double_Advance_Launch,Behind,Pass,O_Attack,,,,
+16,Tokunan_Kenta,Bolade_Apithy,Double_Advance_Launch,Double_Advance_Stop,Pass,Behind,Parry,,,,
+16,Bolade_Apithy,Tokunan_Kenta,Double_Advance_Stop,Double_Advance_Launch,Behind,Pass,O_Parry,,,,
+16,Tokunan_Kenta,Bolade_Apithy,Advance_Launch,Double_Advance_Launch,Pass,Behind,O_Attack,,,,
+16,Bolade_Apithy,Tokunan_Kenta,Double_Advance_Launch,Advance_Launch,Behind,Pass,Attack,,,,
+16,Tokunan_Kenta,Bolade_Apithy,Advance_Launch,Advance_Launch,On,Pass,O_Attack,,,,
+16,Bolade_Apithy,Tokunan_Kenta,Advance_Launch,Advance_Launch,Pass,On,Attack,,,,
+16,Tokunan_Kenta,Bolade_Apithy,Double_Advance,Double_Advance_Stop,Pass,Behind,Take_Over,1,Before_Warning,Advance_Launch,Attack
+16,Bolade_Apithy,Tokunan_Kenta,Double_Advance_Stop,Double_Advance,Behind,Pass,O_Take_Over,1,Before_Warning,Advance_Launch,O_Attack
+17,Riccardo_Nuccio,Yusef_Alshamlan,Advance_Half_Step_Launch,Double_Advance,On,Behind,Hit_Prep,,,,
+17,Yusef_Alshamlan,Riccardo_Nuccio,Double_Advance,Advance_Half_Step_Launch,Behind,On,O_Hit_Prep,,,,
+17,Riccardo_Nuccio,Yusef_Alshamlan,Advance_Stop,Advance_Stop,Behind,On,O_Take_Over,3,Warning,Launch,O_Attack
+17,Yusef_Alshamlan,Riccardo_Nuccio,Advance_Stop,Advance_Stop,On,Behind,Take_Over,3,Warning,Launch,Attack
+17,Riccardo_Nuccio,Yusef_Alshamlan,Advance_Launch,Advance_Launch,Behind,On,O_Attack,,,,
+17,Yusef_Alshamlan,Riccardo_Nuccio,Advance_Launch,Advance_Launch,On,Behind,Attack,,,,
+17,Riccardo_Nuccio,Yusef_Alshamlan,Advance_Launch,Advance_Launch,On,On,O_Attack,,,,
+17,Yusef_Alshamlan,Riccardo_Nuccio,Advance_Launch,Advance_Launch,On,On,Attack,,,,
+17,Riccardo_Nuccio,Yusef_Alshamlan,Advance_Launch,Double_Advance_Launch,On,On,Parry,,,,
+17,Yusef_Alshamlan,Riccardo_Nuccio,Double_Advance_Launch,Advance_Launch,On,On,O_Parry,,,,
+17,Riccardo_Nuccio,Yusef_Alshamlan,Advance_Launch,Advance_Stop,On,On,Short,0,Mid,Launch,O_Attack
+17,Yusef_Alshamlan,Riccardo_Nuccio,Advance_Stop,Advance_Launch,On,On,O_Short,0,Mid,Launch,Attack
+18,Luca_Curatoli,Adham_Moataz,Half_Step_Advance_Stop,Double_Advance_Stop,Pass,Behind,Take_Over,1,Mid,Advance_Launch,Attack
+18,Adham_Moataz,Luca_Curatoli,Double_Advance_Stop,Half_Step_Advance_Stop,Behind,Pass,O_Take_Over,1,Mid,Advance_Launch,O_Attack
+18,Luca_Curatoli,Adham_Moataz,Double_Advance_Launch,Double_Advance_Launch,Pass,Pass,Attack,,,,
+18,Adham_Moataz,Luca_Curatoli,Double_Advance_Launch,Double_Advance_Launch,Pass,Pass,O_Attack,,,,
+18,Luca_Curatoli,Adham_Moataz,Advance_Launch,Advance_Big_Advance,Behind,Pass,Parry,,,,
+18,Adham_Moataz,Luca_Curatoli,Advance_Big_Advance,Advance_Launch,Pass,Behind,O_Parry,,,,
+18,Luca_Curatoli,Adham_Moataz,Half_Step_Advance_Stop,Advance_Launch,Pass,Behind,O_Attack,,,,
+18,Adham_Moataz,Luca_Curatoli,Advance_Launch,Half_Step_Advance_Stop,Behind,Pass,Attack,,,,
+18,Luca_Curatoli,Adham_Moataz,Advance_Launch,Advance_Launch,On,Pass,Attack,,,,
+18,Adham_Moataz,Luca_Curatoli,Advance_Launch,Advance_Launch,Pass,On,O_Attack,,,,
+18,Luca_Curatoli,Adham_Moataz,Double_Advance_Flunge,Double_Advance_Stop,Behind,Behind,Attack,,,,
+18,Adham_Moataz,Luca_Curatoli,Double_Advance_Stop,Double_Advance_Flunge,Behind,Behind,O_Attack,,,,
+19,Matteo_Neri,Andras_Szatmari,Double_Advance_Stop,Double_Advance_Launch,Pass,On,O_Attack,,,,
+19,Andras_Szatmari,Matteo_Neri,Double_Advance_Launch,Double_Advance_Stop,On,Pass,Attack,,,,
+19,Matteo_Neri,Andras_Szatmari,Double_Advance_Launch,Double_Advance_Stop,Pass,Behind,O_Parry,,,,
+19,Andras_Szatmari,Matteo_Neri,Double_Advance_Stop,Double_Advance_Launch,Behind,Pass,Parry,,,,
+19,Matteo_Neri,Andras_Szatmari,Advance_Stop,Double_Advance,Pass,On,O_Take_Over,0,Mid,Advance_Launch,O_Attack
+19,Andras_Szatmari,Matteo_Neri,Double_Advance,Advance_Stop,On,Pass,Take_Over,0,Mid,Advance_Launch,Attack
+19,Matteo_Neri,Andras_Szatmari,Double_Advance_Stop,Advance_Stop,On,On,O_Take_Over,0,Mid,Advance_Launch,O_Attack
+19,Andras_Szatmari,Matteo_Neri,Advance_Stop,Double_Advance_Stop,On,On,Take_Over,0,Mid,Advance_Launch,Attack
+19,Matteo_Neri,Andras_Szatmari,Double_Advance_Launch,Double_Advance_Launch,Pass,Behind,Hit_Prep,,,,
+19,Andras_Szatmari,Matteo_Neri,Double_Advance_Launch,Double_Advance_Launch,Behind,Pass,O_Hit_Prep,,,,
+19,Matteo_Neri,Andras_Szatmari,Double_Advance_Stop,Double_Advance_Launch,Pass,Behind,O_Short,0,Mid,Attack,Parry
+19,Andras_Szatmari,Matteo_Neri,Double_Advance_Launch,Double_Advance_Stop,Behind,Pass,Short,0,Mid,Attack,O_Parry
+20,Szymon Hryciuk,Kokubo Mao,Double_Advance_Launch,Advance_Big_Advance,Behind,Pass,Parry,,,,
+20,Kokubo Mao,Szymon Hryciuk,Advance_Big_Advance,Double_Advance_Launch,Pass,Behind,O_Parry,,,,
+20,Szymon Hryciuk,Kokubo Mao,Advance_Stop,Double_Advance_Launch,On,Behind,O_Attack,,,,
+20,Kokubo Mao,Szymon Hryciuk,Double_Advance_Launch,Advance_Stop,Behind,On,Attack,,,,
+20,Szymon Hryciuk,Kokubo Mao,Advance_Stop,Advance_Stop,On,On,Take_Over,0,Mid,Advance_Launch,Attack
+20,Kokubo Mao,Szymon Hryciuk,Advance_Stop,Advance_Stop,On,On,O_Take_Over,0,Mid,Advance_Launch,O_Attack
+20,Szymon Hryciuk,Kokubo Mao,Double_Advance_Launch,Double_Advance_Launch,Behind,Pass,Attack,,,,
+20,Kokubo Mao,Szymon Hryciuk,Double_Advance_Launch,Double_Advance_Launch,Pass,Behind,O_Attack,,,,
+20,Szymon Hryciuk,Kokubo Mao,Advance_Launch,Advance_Launch,Pass,Behind,Attack,,,,
+20,Kokubo Mao,Szymon Hryciuk,Advance_Launch,Advance_Launch,Behind,Pass,O_Attack,,,,
+20,Szymon Hryciuk,Kokubo Mao,Double_Advance_Launch,Double_Advance_Stop,On,On,Attack,,,,
+20,Kokubo Mao,Szymon Hryciuk,Double_Advance_Stop,Double_Advance_Launch,On,On,O_Attack,,,,
+21,Frederic Kindler,Jared Smith,Advance_Stop,Double_Advance_Stop,On,Pass,O_Take_Over,2,En_Guard_Line,Advance_Launch,Miss
+21,Jared Smith,Frederic Kindler,Double_Advance_Stop,Advance_Stop,Pass,On,Take_Over,3,En_Guard_Line,Advance_Launch,Miss
+21,Frederic Kindler,Jared Smith,Advance_Stop,Double_Advance_Launch,On,On,O_Short,0,Mid,Attack,Miss
+21,Jared Smith,Frederic Kindler,Double_Advance_Launch,Advance_Stop,On,On,Short,0,Mid,Attack,Miss
+21,Frederic Kindler,Jared Smith,Advance_Stop,Double_Advance_Stop,On,Behind,Take_Over,2,En_Guard_Line,Advance_Launch,Miss
+21,Jared Smith,Frederic Kindler,Double_Advance_Stop,Advance_Stop,Behind,On,O_Take_Over,2,En_Guard_Line,Advance_Launch,Miss
+21,Frederic Kindler,Jared Smith,Advance_Launch,Double_Advance_Launch,Behind,Pass,O_Attack,,,,
+21,Jared Smith,Frederic Kindler,Double_Advance_Launch,Advance_Launch,Pass,Behind,Attack,,,,
+21,Frederic Kindler,Jared Smith,Advance_Stop,Advance_Stop,On,Behind,O_Take_Over,1,Mid,Advance_Launch,O_Parry
+21,Jared Smith,Frederic Kindler,Advance_Stop,Advance_Stop,Behind,On,Take_Over,1,Mid,Advance_Launch,Parry
+21,Frederic Kindler,Jared Smith,Advance_Stop,Double_Advance_Launch,On,Behind,O_Short,1,Mid,Advance_Launch,Miss
+21,Jared Smith,Frederic Kindler,Double_Advance_Launch,Advance_Stop,Behind,On,Short,1,Mid,Advance_Launch,Miss
+22,Farzad Baher,Kaito Streets,Double_Advance,Double_Advance_Launch,Pass,Behind,Attack,,,,
+22,Kaito Streets,Farzad Baher,Double_Advance_Launch,Double_Advance,Behind,Pass,O_Attack,,,,
+22,Farzad Baher,Kaito Streets,Advance_Stop,Double_Advance_Stop,On,Behind,Take_Over,2,Warning,Advance_Launch,Attack
+22,Kaito Streets,Farzad Baher,Double_Advance_Stop,Advance_Stop,Behind,On,O_Take_Over,2,Warning,Advance_Launch,O_Attack
+22,Farzad Baher,Kaito Streets,Half_Step_Advance_Launch,Double_Advance_Stop,On,On,Attack,,,,
+22,Kaito Streets,Farzad Baher,Double_Advance_Stop,Half_Step_Advance_Launch,On,On,O_Attack,,,,
+22,Farzad Baher,Kaito Streets,Double_Advance_Launch,Double_Advance_Launch,Pass,On,O_Parry,,,,
+22,Kaito Streets,Farzad Baher,Double_Advance_Launch,Double_Advance_Launch,On,Pass,Parry,,,,
+22,Farzad Baher,Kaito Streets,Advance_Stop,Double_Advance_Stop,On,On,O_Take_Over,0,Mid,Launch,O_Attack
+22,Kaito Streets,Farzad Baher,Double_Advance_Stop,Advance_Stop,On,On,Take_Over,0,Mid,Launch,Attack
+22,Farzad Baher,Kaito Streets,Double_Advance_Launch,Double_Advance_Launch,On,Pass,Parry,,,,
+22,Kaito Streets,Farzad Baher,Double_Advance_Launch,Double_Advance_Launch,Pass,On,O_Parry,,,,
+23,George Dragomir,Matyas Szabo,Double_Advance_Launch,Advance_Stop,Pass,Pass,Attack,,,,
+23,Matyas Szabo,George Dragomir,Advance_Stop,Double_Advance_Launch,Pass,Pass,O_Attack,,,,
+23,George Dragomir,Matyas Szabo,Double_Advance_Launch,Double_Advance_Launch,On,On,Attack,,,,
+23,Matyas Szabo,George Dragomir,Double_Advance_Launch,Double_Advance_Launch,On,On,O_Attack,,,,
+23,George Dragomir,Matyas Szabo,Advance_Launch,Advance_Half_Step_Launch,Pass,Behind,O_Attack,,,,
+23,Matyas Szabo,George Dragomir,Advance_Half_Step_Launch,Advance_Launch,Behind,Pass,Attack,,,,
+23,George Dragomir,Matyas Szabo,Double_Advance_Launch,Double_Advance_Launch,On,Behind,Parry,,,,
+23,Matyas Szabo,George Dragomir,Double_Advance_Launch,Double_Advance_Launch,Behind,On,O_Parry,,,,
+23,George Dragomir,Matyas Szabo,Advance_Stop,Advance_Half_Step_Launch,Pass,Behind,O_Short,4,Warning,Advance,Counter_Attack
+23,Matyas Szabo,George Dragomir,Advance_Half_Step_Launch,Advance_Stop,Behind,Pass,Short,4,Warning,Advance,Counter_Attack
+23,George Dragomir,Matyas Szabo,Double_Advance_Launch,Advance_Half_Step_Launch,Pass,Behind,O_Hit_Prep,,,,
+23,Matyas Szabo,George Dragomir,Advance_Half_Step_Launch,Double_Advance_Launch,Behind,Pass,Hit_Prep,,,,
+24,Eliott Bibi ,Tom Seitz,Double_Advance_Stop,Double_Advance_Launch,Behind,Pass,O_Short,0,En_Guard_Line,Attack,Parry
+24,Tom Seitz,Eliott Bibi ,Double_Advance_Launch,Double_Advance_Stop,Pass,Behind,Short,0,En_Guard_Line,Attack,O_Parry
+24,Eliott Bibi ,Tom Seitz,Double_Advance_Stop,Double_Advance_Stop,On,On,O_Take_Over,4,Warning,Advance,Counter_Attack
+24,Tom Seitz,Eliott Bibi ,Double_Advance_Stop,Double_Advance_Stop,On,On,Take_Over,4,Warning,Advance,Counter_Attack
+24,Eliott Bibi ,Tom Seitz,Double_Advance_Launch,Advance_Stop,Pass,Behind,Short,1,En_Guard_Line,Advance_Launch,Miss
+24,Tom Seitz,Eliott Bibi ,Advance_Stop,Double_Advance_Launch,Behind,Pass,O_Short,1,En_Guard_Line,Advance_Launch,Miss
+24,Eliott Bibi ,Tom Seitz,Advance_Half_Step_Launch,Advance_Big_Advance,Behind,Pass,Attack,,,,
+24,Tom Seitz,Eliott Bibi ,Advance_Big_Advance,Advance_Half_Step_Launch,Pass,Behind,O_Attack,,,,
+24,Eliott Bibi ,Tom Seitz,Double_Advance_Launch,Double_Advance_Launch,Pass,Behind,O_Hit_Prep,,,,
+24,Tom Seitz,Eliott Bibi ,Double_Advance_Launch,Double_Advance_Launch,Behind,Pass,Hit_Prep,,,,
+24,Eliott Bibi ,Tom Seitz,Advance_Stop,Double_Advance_Stop,On,Behind,Take_Over,3,En_Guard_Line,Launch,Miss
+24,Tom Seitz,Eliott Bibi ,Double_Advance_Stop,Advance_Stop,Behind,On,O_Take_Over,3,En_Guard_Line,Launch,Miss
+25,Tsumori Shido,Medhat Moataz,Advance_Stop,Advance_Stop,On,Pass,Take_Over,,,,
+25,Medhat Moataz,Tsumori Shido,Advance_Stop,Advance_Stop,Pass,On,O_Take_Over,,,,
+25,Tsumori Shido,Medhat Moataz,Double_Advance,Advance_Launch,On,Pass,O_Take_Over,,,,
+25,Medhat Moataz,Tsumori Shido,Advance_Launch,Double_Advance,Pass,On,Hit_Prep,,,,
+25,Tsumori Shido,Medhat Moataz,Advance_Stop,Advance_Stop,Behind,Pass,Take_Over,1,En_Guard_Line,Advance_Launch,Counter_Attack
+25,Medhat Moataz,Tsumori Shido,Advance_Stop,Advance_Stop,Pass,Behind,O_Take_Over,1,En_Guard_Line,Advance_Launch,Counter_Attack
+25,Tsumori Shido,Medhat Moataz,Double_Advance_Stop,Double_Advance_Stop,On,On,Parry,,,,
+25,Medhat Moataz,Tsumori Shido,Double_Advance_Stop,Double_Advance_Stop,On,On,O_Parry,,,,
+25,Tsumori Shido,Medhat Moataz,Double_Advance_Stop,Advance_Stop,On,Pass,Take_Over,1,En_Guard_Line,Advance_Launch,Attack
+25,Medhat Moataz,Tsumori Shido,Advance_Stop,Double_Advance_Stop,Pass,On,O_Take_Over,1,En_Guard_Line,Advance_Launch,O_Attack
+25,Tsumori Shido,Medhat Moataz,Double_Advance_Stop,Advance_Stop,Behind,On,O_Take_Over,0,Mid,Advance,Counter_Attack
+25,Medhat Moataz,Tsumori Shido,Advance_Stop,Double_Advance_Stop,On,Behind,Take_Over,0,Mid,Advance,Counter_Attack
+26,Ahmed_Ferjani,Ha_Hansol,Advance_Launch,Advance_Launch,On,On,Simu,,,,
+26,Ha_Hansol,Ahmed_Ferjani,Advance_Launch,Advance_Launch,On,On,Simu,,,,
+26,Ahmed_Ferjani,Ha_Hansol,Double_Advance_Stop,Advance_Launch,Behind,On,O_Attack,,,,
+26,Ha_Hansol,Ahmed_Ferjani,Advance_Launch,Double_Advance_Stop,On,Behind,Attack,,,,
+26,Ahmed_Ferjani,Ha_Hansol,Double_Advance_Launch,Advance_Stop,Pass,Behind,Parry,,,,
+26,Ha_Hansol,Ahmed_Ferjani,Advance_Stop,Double_Advance_Launch,Behind,Pass,O_Parry,,,,
+26,Ahmed_Ferjani,Ha_Hansol,Advance_Stop,Advance_Stop,On,Behind,Take_Over,0,Mid,Advance_Launch,Attack
+26,Ha_Hansol,Ahmed_Ferjani,Advance_Stop,Advance_Stop,Behind,On,O_Take_Over,0,Mid,Advance_Launch,O_Attack
+26,Ahmed_Ferjani,Ha_Hansol,Double_Advance_Launch,Advance_Stop,Behind,Pass,Short,0,Mid,Launch,O_Attack
+26,Ha_Hansol,Ahmed_Ferjani,Advance_Stop,Double_Advance_Launch,Pass,Behind,O_Short,0,Mid,Launch,Attack
+26,Ahmed_Ferjani,Ha_Hansol,Advance_Launch,Advance_Launch,On,Behind,O_Attack,,,,
+26,Ha_Hansol,Ahmed_Ferjani,Advance_Launch,Advance_Launch,Behind,On,Attack,,,,
+27,Ziad_Elsissy,Gergo_Horvath,Advance_Half_Step_Launch,Double_Advance_Stop,Behind,On,Short,1,Mid,Advance_Launch,Counter_Attack
+27,Gergo_Horvath,Ziad_Elsissy,Double_Advance_Stop,Advance_Half_Step_Launch,On,Behind,O_Short,1,Mid,Advance_Launch,Counter_Attack
+27,Ziad_Elsissy,Gergo_Horvath,Advance_Stop,Double_Advance_Launch,On,Pass,O_Attack,,,,
+27,Gergo_Horvath,Ziad_Elsissy,Double_Advance_Launch,Advance_Stop,Pass,On,Attack,,,,
+27,Ziad_Elsissy,Gergo_Horvath,Advance_Stop,Advance_Half_Step_Launch,On,On,O_Short,0,Mid,Attack,Miss
+27,Gergo_Horvath,Ziad_Elsissy,Advance_Half_Step_Launch,Advance_Stop,On,On,Short,0,Mid,Attack,Miss
+27,Ziad_Elsissy,Gergo_Horvath,Advance_Flunge,Advance_Launch,On,On,Attack,,,,
+27,Gergo_Horvath,Ziad_Elsissy,Advance_Launch,Advance_Flunge,On,On,O_Attack,,,,
+27,Ziad_Elsissy,Gergo_Horvath,Advance_Half_Step_Launch,Double_Advance_Stop,Behind,On,Hit_Prep,,,,
+27,Gergo_Horvath,Ziad_Elsissy,Double_Advance_Stop,Advance_Half_Step_Launch,On,Behind,O_Hit_Prep,,,,
+27,Ziad_Elsissy,Gergo_Horvath,Advance_Half_Step_Launch,Advance_Launch,Behind,Pass,Hit_Prep,,,,
+27,Gergo_Horvath,Ziad_Elsissy,Advance_Launch,Advance_Half_Step_Launch,Pass,Behind,O_Hit_Prep,,,,
+28,Mohamed_Amer,Andriy_Yagodka,Advance_Stop,Advance_Stop,Behind,Behind,Take_Over,1,En_Guard_Line,Launch,Miss
+28,Andriy_Yagodka,Mohamed_Amer,Advance_Stop,Advance_Stop,Behind,Behind,O_Take_Over,1,En_Guard_Line,Launch,Miss
+28,Mohamed_Amer,Andriy_Yagodka,Advance_Launch,Advance_Launch,Behind,On,O_Attack,,,,
+28,Andriy_Yagodka,Mohamed_Amer,Advance_Launch,Advance_Launch,On,Behind,Attack,,,,
+28,Mohamed_Amer,Andriy_Yagodka,Advance_Stop,Advance_Stop,Behind,Behind,Take_Over,0,Mid,Launch,Miss
+28,Andriy_Yagodka,Mohamed_Amer,Advance_Stop,Advance_Stop,Behind,Behind,O_Take_Over,0,Mid,Launch,Miss
+28,Mohamed_Amer,Andriy_Yagodka,Advance_Launch,Advance_Stop,Behind,On,Parry,,,,
+28,Andriy_Yagodka,Mohamed_Amer,Advance_Stop,Advance_Launch,On,Behind,O_Parry,,,,
+28,Mohamed_Amer,Andriy_Yagodka,Advance_Stop,Advance_Launch,Behind,On,O_Parry,,,,
+28,Andriy_Yagodka,Mohamed_Amer,Advance_Launch,Advance_Stop,On,Behind,Parry,,,,
+28,Mohamed_Amer,Andriy_Yagodka,Advance_Stop,Advance_Stop,Behind,On,Take_Over,2,En_Guard_Line,Launch,Attack
+28,Andriy_Yagodka,Mohamed_Amer,Advance_Stop,Advance_Stop,On,Behind,O_Take_Over,2,En_Guard_Line,Launch,O_Attack
+29,Do_Gyeongdong,Xu_Yingming,Advance_Launch,Advance_Launch,Behind,Behind,Attack,,,,
+29,Xu_Yingming,Do_Gyeongdong,Advance_Launch,Advance_Launch,Behind,Behind,O_Attack,,,,
+29,Do_Gyeongdong,Xu_Yingming,Advance_Stop,Advance_Stop,On,On,O_Take_Over,3,Before_Warning,Advance_Launch,O_Attack
+29,Xu_Yingming,Do_Gyeongdong,Advance_Stop,Advance_Stop,On,On,Take_Over,3,Before_Warning,Advance_Launch,Attack
+29,Do_Gyeongdong,Xu_Yingming,Double_Advance_Stop,Advance_Stop,On,Behind,Take_Over,1,Mid,Launch,Attack
+29,Xu_Yingming,Do_Gyeongdong,Advance_Stop,Double_Advance_Stop,Behind,On,O_Take_Over,1,Mid,Launch,O_Attack
+29,Do_Gyeongdong,Xu_Yingming,Double_Advance,Advance_Launch,Pass,Behind,O_Attack,,,,
+29,Xu_Yingming,Do_Gyeongdong,Advance_Launch,Double_Advance,Behind,Pass,Attack,,,,
+29,Do_Gyeongdong,Xu_Yingming,Advance_Stop,Double_Advance_Launch,On,Pass,O_Attack,,,,
+29,Xu_Yingming,Do_Gyeongdong,Double_Advance_Launch,Advance_Stop,Pass,On,Attack,,,,
+29,Do_Gyeongdong,Xu_Yingming,Advance_Stop,Advance_Launch,On,On,O_Short,2,Mid,Launch,Attack
+29,Xu_Yingming,Do_Gyeongdong,Advance_Launch,Advance_Stop,On,On,Short,2,Mid,Launch,O_Attack
+30,Shen_Chenpeng,Pietro_Torre,Double_Advance_Half_Step_Launch,Advance_Stop,Behind,On,Hit_Prep,,,,
+30,Pietro_Torre,Shen_Chenpeng,Advance_Stop,Double_Advance_Half_Step_Launch,On,Behind,O_Hit_Prep,,,,
+30,Shen_Chenpeng,Pietro_Torre,Double_Advance_Launch,Advance_Launch,On,Behind,Attack,,,,
+30,Pietro_Torre,Shen_Chenpeng,Advance_Launch,Double_Advance_Launch,Behind,On,O_Attack,,,,
+30,Shen_Chenpeng,Pietro_Torre,Double_Advance_Stop,Advance_Launch,Pass,Pass,O_Attack,,,,
+30,Pietro_Torre,Shen_Chenpeng,Advance_Launch,Double_Advance_Stop,Pass,Pass,Attack,,,,
+30,Shen_Chenpeng,Pietro_Torre,Half_Step_Advance_Stop,Advance_Stop,Behind,Pass,O_Take_Over,0,Mid,Advance_Launch,O_Parry
+30,Pietro_Torre,Shen_Chenpeng,Advance_Stop,Half_Step_Advance_Stop,Pass,Behind,Take_Over,0,Mid,Advance_Launch,Parry
+30,Shen_Chenpeng,Pietro_Torre,Double_Advance_Half_Step_Launch,Advance_Stop,Behind,On,Short,1,Mid,Advance,Counter_Attack
+30,Pietro_Torre,Shen_Chenpeng,Advance_Stop,Double_Advance_Half_Step_Launch,On,Behind,O_Short,1,Mid,Advance,Counter_Attack
+30,Shen_Chenpeng,Pietro_Torre,Advance_Launch,Advance_Stop,On,Behind,Attack,,,,
+30,Pietro_Torre,Shen_Chenpeng,Advance_Stop,Advance_Launch,Behind,On,O_Attack,,,,
+31,Khalil_Thompson,Jean-Philippe_Patrice,Double_Advance_Stop,Advance_Half_Step_Launch,Behind,On,O_Short,1,Mid,Advance_Launch,Attack
+31,Jean-Philippe_Patrice,Khalil_Thompson,Advance_Half_Step_Launch,Double_Advance_Stop,On,Behind,Short,1,Mid,Advance_Launch,O_Attack
+31,Khalil_Thompson,Jean-Philippe_Patrice,Double_Advance_Launch,Advance_Stop,Pass,Behind,Attack,,,,
+31,Jean-Philippe_Patrice,Khalil_Thompson,Advance_Stop,Double_Advance_Launch,Behind,Pass,O_Attack,,,,
+31,Khalil_Thompson,Jean-Philippe_Patrice,Double_Advance_Half_Step_Launch,Advance_Stop,On,Pass,Short,0,En_Guard_Line,Advance_Launch,O_Attack
+31,Jean-Philippe_Patrice,Khalil_Thompson,Advance_Stop,Double_Advance_Half_Step_Launch,Pass,On,O_Short,0,En_Guard_Line,Advance_Launch,Attack
+31,Khalil_Thompson,Jean-Philippe_Patrice,Double_Advance_Stop,Double_Advance_Launch,On,Pass,O_Parry,0,Mid,Attack,Attack
+31,Jean-Philippe_Patrice,Khalil_Thompson,Double_Advance_Launch,Double_Advance_Stop,Pass,On,Parry,0,Mid,Attack,O_Attack
+31,Khalil_Thompson,Jean-Philippe_Patrice,Double_Advance_Stop,Advance_Stop,Behind,On,Take_Over,0,Mid,Advance_Launch,Counter_Attack
+31,Jean-Philippe_Patrice,Khalil_Thompson,Advance_Stop,Double_Advance_Stop,On,Behind,O_Take_Over,0,Mid,Advance_Launch,Counter_Attack
+31,Khalil_Thompson,Jean-Philippe_Patrice,Double_Advance_Big_Advance,Advance_Half_Step_Launch,Pass,Behind,O_Attack,,,,
+31,Jean-Philippe_Patrice,Khalil_Thompson,Advance_Half_Step_Launch,Double_Advance_Big_Advance,Behind,Pass,Attack,,,,
+32,Yan_Yinghui,Krysztof_Kaczkowski,Advance_Half_Step_Launch,Advance_Stop,On,Behind,Short,0,Mid,Attack,O_Attack
+32,Krysztof_Kaczkowski,Yan_Yinghui,Advance_Stop,Advance_Half_Step_Launch,Behind,On,O_Short,0,Mid,Attack,Attack
+32,Yan_Yinghui,Krysztof_Kaczkowski,Double_Advance_Launch,Advance_Stop,Pass,On,Attack,,,,
+32,Krysztof_Kaczkowski,Yan_Yinghui,Advance_Stop,Double_Advance_Launch,On,Pass,O_Attack,,,,
+32,Yan_Yinghui,Krysztof_Kaczkowski,Advance_Launch,Advance_Launch,On,Behind,O_Attack,,,,
+32,Krysztof_Kaczkowski,Yan_Yinghui,Advance_Launch,Advance_Launch,Behind,On,Attack,,,,
+32,Yan_Yinghui,Krysztof_Kaczkowski,Advance_Launch,Double_Advance,On,Pass,Hit_Prep,,,,
+32,Krysztof_Kaczkowski,Yan_Yinghui,Double_Advance,Advance_Launch,Pass,On,O_Hit_Prep,,,,
+32,Yan_Yinghui,Krysztof_Kaczkowski,Advance_Launch,Advance_Stop,Pass,Behind,Short,0,Mid,Attack,Miss
+32,Krysztof_Kaczkowski,Yan_Yinghui,Advance_Stop,Advance_Launch,Behind,Pass,O_Short,0,Mid,Attack,Miss
+32,Yan_Yinghui,Krysztof_Kaczkowski,Advance_Stop,Advance_Stop,Behind,On,Take_Over,3,Before_Warning,Launch,Attack
+32,Krysztof_Kaczkowski,Yan_Yinghui,Advance_Stop,Advance_Stop,On,Behind,O_Take_Over,3,Before_Warning,Launch,O_Attack
+33,Giacomo_Mignuzzi,Francesco_De_Robbio,Double_Advance_Half_Step_Launch,Double_Advance_Stop,On,On,Hit_Prep,,,,
+33,Francesco_De_Robbio,Giacomo_Mignuzzi,Double_Advance_Stop,Double_Advance_Half_Step_Launch,On,On,O_Hit_Prep,,,,
+33,Giacomo_Mignuzzi,Francesco_De_Robbio,Double_Advance_Half_Step_Launch,Advance_Half_Step_Launch,On,On,O_Hit_Prep,,,,
+33,Francesco_De_Robbio,Giacomo_Mignuzzi,Advance_Half_Step_Launch,Double_Advance_Half_Step_Launch,On,On,Hit_Prep,,,,
+33,Giacomo_Mignuzzi,Francesco_De_Robbio,Double_Advance_Stop,Advance_Stop,On,Pass,Take_Over,2,Warning,Advance_Launch,Miss
+33,Francesco_De_Robbio,Giacomo_Mignuzzi,Advance_Stop,Double_Advance_Stop,Pass,On,O_Take_Over,2,Warning,Advance_Launch,Miss
+33,Giacomo_Mignuzzi,Francesco_De_Robbio,Double_Advance_Half_Step_Launch,Double_Advance_Stop,On,On,Hit_Prep,,,,
+33,Francesco_De_Robbio,Giacomo_Mignuzzi,Double_Advance_Stop,Double_Advance_Half_Step_Launch,On,On,O_Hit_Prep,,,,
+33,Giacomo_Mignuzzi,Francesco_De_Robbio,Double_Advance,Advance_Stop,Pass,Pass,Take_Over,1,En_Guard_Line,Advance_Launch,Attack
+33,Francesco_De_Robbio,Giacomo_Mignuzzi,Advance_Stop,Double_Advance,Pass,Pass,O_Take_Over,1,En_Guard_Line,Advance_Launch,O_Attack
+33,Giacomo_Mignuzzi,Francesco_De_Robbio,Double_Advance_Half_Step_Launch,Advance_Half_Step_Launch,Behind,On,Attack,,,,
+33,Francesco_De_Robbio,Giacomo_Mignuzzi,Advance_Half_Step_Launch,Double_Advance_Half_Step_Launch,On,Behind,O_Attack,,,,
+34,Dario_Cavaliere,Yoshida_Kento,Advance_Launch,Advance_Stop,On,Pass,Hit_Prep,,,,
+34,Yoshida_Kento,Dario_Cavaliere,Advance_Stop,Advance_Launch,Pass,On,O_Hit_Prep,,,,
+34,Dario_Cavaliere,Yoshida_Kento,Advance_Half_Step_Launch,Advance_Launch,Behind,On,O_Attack,,,,
+34,Yoshida_Kento,Dario_Cavaliere,Advance_Launch,Advance_Half_Step_Launch,On,Behind,Attack,,,,
+34,Dario_Cavaliere,Yoshida_Kento,Double_Advance,Advance_Stop,Behind,Behind,Take_Over,0,Before_Warning,Flunge,Attack
+34,Yoshida_Kento,Dario_Cavaliere,Advance_Stop,Double_Advance,Behind,Behind,O_Take_Over,0,Before_Warning,Flunge,O_Attack
+34,Dario_Cavaliere,Yoshida_Kento,Advance_Half_Step_Launch,Advance_Launch,On,Behind,O_Attack,,,,
+34,Yoshida_Kento,Dario_Cavaliere,Advance_Launch,Advance_Half_Step_Launch,Behind,On,Attack,,,,
+34,Dario_Cavaliere,Yoshida_Kento,Advance_Stop,Double_Advance,Behind,Behind,O_Take_Over,1,Mid,Advance,Counter_Attack
+34,Yoshida_Kento,Dario_Cavaliere,Double_Advance,Advance_Stop,Behind,Behind,Take_Over,1,Mid,Advance,Counter_Attack
+34,Dario_Cavaliere,Yoshida_Kento,Advance_Stop,Advance_Flunge,Behind,Behind,O_Hit_Prep,,,,
+34,Yoshida_Kento,Dario_Cavaliere,Advance_Flunge,Advance_Stop,Behind,Behind,Hit_Prep,,,,
+35,Nicolasz_Iliasz,Enrico_Berre,Advance_Launch,Advance_Stop,On,On,Parry,0,Mid,Attack,O_Attack
+35,Enrico_Berre,Nicolasz_Iliasz,Advance_Stop,Advance_Launch,On,On,O_Parry,0,Mid,Attack,Attack
+35,Nicolasz_Iliasz,Enrico_Berre,Advance_Half_Step_Launch,Advance_Launch,On,On,O_Attack,,,,
+35,Enrico_Berre,Nicolasz_Iliasz,Advance_Launch,Advance_Half_Step_Launch,On,On,Attack,,,,
+35,Nicolasz_Iliasz,Enrico_Berre,Advance_Stop,Advance_Launch,Pass,Behind,O_Short,0,Mid,Attack,Attack
+35,Enrico_Berre,Nicolasz_Iliasz,Advance_Launch,Advance_Stop,Behind,Pass,Short,0,Mid,Attack,O_Attack
+35,Nicolasz_Iliasz,Enrico_Berre,Advance_Launch,Advance_Stop,Pass,Behind,Attack,,,,
+35,Enrico_Berre,Nicolasz_Iliasz,Advance_Stop,Advance_Launch,Behind,Pass,O_Attack,,,,
+35,Nicolasz_Iliasz,Enrico_Berre,Advance_Launch,Advance_Stop,Pass,Behind,Attack,,,,
+35,Enrico_Berre,Nicolasz_Iliasz,Advance_Stop,Advance_Launch,Behind,Pass,O_Attack,,,,
+35,Nicolasz_Iliasz,Enrico_Berre,Advance_Stop,Advance_Stop,Behind,On,O_Take_Over,3,En_Guard_Line,Launch,O_Attack
+35,Enrico_Berre,Nicolasz_Iliasz,Advance_Stop,Advance_Stop,On,Behind,Take_Over,3,En_Guard_Line,Launch,Attack
+36,Tamas_Decsi,Rares_Ailinca,Advance_Stop,Advance_Stop,Pass,Behind,Take_Over,1,En_Guard_Line,Advance_Launch,Attack
+36,Rares_Ailinca,Tamas_Decsi,Advance_Stop,Advance_Stop,Behind,Pass,O_Take_Over,1,En_Guard_Line,Advance_Launch,O_Attack
+36,Tamas_Decsi,Rares_Ailinca,Advance_Stop,Advance_Stop,Pass,Behind,Take_Over,1,Mid,Advance_Launch,Parry
+36,Rares_Ailinca,Tamas_Decsi,Advance_Stop,Advance_Stop,Behind,Pass,O_Take_Over,1,Mid,Advance_Launch,O_Parry
+36,Tamas_Decsi,Rares_Ailinca,Advance_Launch,Advance_Stop,Pass,Behind,Short,2,Before_Warning,Advance_Launch,O_Attack
+36,Rares_Ailinca,Tamas_Decsi,Advance_Stop,Advance_Launch,Behind,Pass,O_Short,2,Before_Warning,Advance_Launch,Attack
+36,Tamas_Decsi,Rares_Ailinca,Advance_Launch,Advance_Launch,Pass,Behind,O_Parry,,,,
+36,Rares_Ailinca,Tamas_Decsi,Advance_Launch,Advance_Launch,Behind,Pass,Parry,,,,
+36,Tamas_Decsi,Rares_Ailinca,Advance_Launch,Double_Advance_Stop,On,Behind,Short,1,Mid,Advance,Counter_Attack
+36,Rares_Ailinca,Tamas_Decsi,Double_Advance_Stop,Advance_Launch,Behind,On,O_Short,1,Mid,Advance,Counter_Attack
+36,Tamas_Decsi,Rares_Ailinca,Advance_Launch,Advance_Launch,Pass,Behind,Take_Over,4,Before_Warning,Advance_Launch,Miss
+36,Rares_Ailinca,Tamas_Decsi,Advance_Launch,Advance_Launch,Behind,Pass,O_Take_Over,4,Before_Warning,Advance_Launch,Miss
+37,Karan_Singh,Maxence_Lambert,Half_Step_Advance_Stop,Half_Step_Advance_Launch,Behind,Pass,O_Short,0,Mid,Attack,Miss
+37,Maxence_Lambert,Karan_Singh,Half_Step_Advance_Launch,Half_Step_Advance_Stop,Pass,Behind,Short,0,Mid,Attack,Miss
+37,Karan_Singh,Maxence_Lambert,Advance_Launch,Advance_Stop,Pass,Behind,Short,0,Mid,Attack,Miss
+37,Maxence_Lambert,Karan_Singh,Advance_Stop,Advance_Launch,Behind,Pass,O_Short,0,Mid,Attack,Miss
+37,Karan_Singh,Maxence_Lambert,Double_Advance_Stop,Half_Step_Advance_Stop,On,On,Simu,,,,
+37,Maxence_Lambert,Karan_Singh,Half_Step_Advance_Stop,Double_Advance_Stop,On,On,Simu,,,,
+37,Karan_Singh,Maxence_Lambert,Half_Step_Advance_Launch,Double_Advance_Launch,Behind,Pass,O_Attack,,,,
+37,Maxence_Lambert,Karan_Singh,Double_Advance_Launch,Half_Step_Advance_Launch,Pass,Behind,Attack,,,,
+37,Karan_Singh,Maxence_Lambert,Half_Step_Advance_Stop,Half_Step_Advance_Stop,On,Behind,O_Take_Over,0,Mid,Advance_Launch,O_Attack
+37,Maxence_Lambert,Karan_Singh,Half_Step_Advance_Stop,Half_Step_Advance_Stop,Behind,On,Take_Over,0,Mid,Advance_Launch,Attack
+37,Karan_Singh,Maxence_Lambert,Half_Step_Advance_Stop,Half_Step_Advance_Stop,Behind,Pass,Take_Over,2,End,Advance_Launch,O_Attack
+37,Maxence_Lambert,Karan_Singh,Half_Step_Advance_Stop,Half_Step_Advance_Stop,Pass,Behind,O_Take_Over,2,End,Advance_Launch,Attack
+38,Lee_Jonghyun,Leon_Schlaffer,Advance_Stop,Advance_Launch,On,On,O_Short,3,Warning,Advance_Launch,Attack
+38,Leon_Schlaffer,Lee_Jonghyun,Advance_Launch,Advance_Stop,On,On,Short,3,Warning,Advance_Launch,O_Attack
+38,Lee_Jonghyun,Leon_Schlaffer,Double_Advance_Launch,Advance_Stop,Pass,On,Attack,,,,
+38,Leon_Schlaffer,Lee_Jonghyun,Advance_Stop,Double_Advance_Launch,On,Pass,O_Attack,,,,
+38,Lee_Jonghyun,Leon_Schlaffer,Advance_Launch,Advance_Stop,Behind,On,Parry,0,Mid,Attack,O_Parry
+38,Leon_Schlaffer,Lee_Jonghyun,Advance_Stop,Advance_Launch,On,Behind,O_Parry,0,Mid,Attack,Parry
+38,Lee_Jonghyun,Leon_Schlaffer,Advance_Stop,Advance_Stop,On,On,Take_Over,3,Warning,Advance,Parry
+38,Leon_Schlaffer,Lee_Jonghyun,Advance_Stop,Advance_Stop,On,On,O_Take_Over,3,Warning,Advance,O_Parry
+38,Lee_Jonghyun,Leon_Schlaffer,Advance_Stop,Advance_Half_Step_Launch,Behind,On,O_Short,1,Mid,Advance,Parry
+38,Leon_Schlaffer,Lee_Jonghyun,Advance_Half_Step_Launch,Advance_Stop,On,Behind,Short,1,Mid,Advance,O_Parry
+38,Lee_Jonghyun,Leon_Schlaffer,Advance_Stop,Advance_Launch,Behind,Pass,O_Take_Over,0,Before_Warning,Advance_Launch,O_Attack
+38,Leon_Schlaffer,Lee_Jonghyun,Advance_Launch,Advance_Stop,Pass,Behind,Take_Over,0,Before_Warning,Advance_Launch,Attack
+39,Curtis_Miller,Kamil_Ibragimov,Double_Advance_Half_Step_Launch,Double_Advance_Big_Advance,Behind,Pass,Parry,,,,
+39,Kamil_Ibragimov,Curtis_Miller,Double_Advance_Big_Advance,Double_Advance_Half_Step_Launch,Pass,Behind,O_Parry,,,,
+39,Curtis_Miller,Kamil_Ibragimov,Double_Advance_Launch,Double_Advance_Launch,Behind,Pass,Attack,,,,
+39,Kamil_Ibragimov,Curtis_Miller,Double_Advance_Launch,Double_Advance_Launch,Pass,Behind,O_Attack,,,,
+39,Curtis_Miller,Kamil_Ibragimov,Advance_Stop,Advance_Stop,Behind,Pass,O_Take_Over,2,Before_Warning,Flunge,O_Attack
+39,Kamil_Ibragimov,Curtis_Miller,Advance_Stop,Advance_Stop,Pass,Behind,Take_Over,2,Before_Warning,Flunge,Attack
+39,Curtis_Miller,Kamil_Ibragimov,Double_Advance_Stop,Advance_Stop,Behind,On,Take_Over,2,End,Flunge,Attack
+39,Kamil_Ibragimov,Curtis_Miller,Advance_Stop,Double_Advance_Stop,On,Behind,O_Take_Over,2,End,Flunge,O_Attack
+39,Curtis_Miller,Kamil_Ibragimov,Advance_Half_Step_Launch,Half_Step_Advance_Launch,Behind,Pass,O_Attack,,,,
+39,Kamil_Ibragimov,Curtis_Miller,Half_Step_Advance_Launch,Advance_Half_Step_Launch,Pass,Behind,Attack,,,,
+39,Curtis_Miller,Kamil_Ibragimov,Advance_Half_Step_Launch,Advance_Half_Step_Launch,Behind,Pass,Attack,,,,
+39,Kamil_Ibragimov,Curtis_Miller,Advance_Half_Step_Launch,Advance_Half_Step_Launch,Pass,Behind,O_Attack,,,,
+40,Mojtaba_Abedini,Shaul_Gordon,Advance_Stop,Advance_Stop,Behind,Pass,O_Take_Over,0,Mid,Advance_Launch,O_Attack
+40,Shaul_Gordon,Mojtaba_Abedini,Advance_Stop,Advance_Stop,Pass,Behind,Take_Over,0,Mid,Advance_Launch,Attack
+40,Mojtaba_Abedini,Shaul_Gordon,Advance_Half_Step_Launch,Advance_Stop,Pass,On,Short,3,Mid,Advance_Launch,O_Attack
+40,Shaul_Gordon,Mojtaba_Abedini,Advance_Stop,Advance_Half_Step_Launch,On,Pass,O_Short,3,Mid,Advance_Launch,Attack
+40,Mojtaba_Abedini,Shaul_Gordon,Advance_Stop,Advance_Stop,On,On,Take_Over,0,Mid,Launch,Attack
+40,Shaul_Gordon,Mojtaba_Abedini,Advance_Stop,Advance_Stop,On,On,O_Take_Over,0,Mid,Launch,O_Attack
+40,Mojtaba_Abedini,Shaul_Gordon,Advance_Half_Step_Launch,Half_Step_Advance_Launch,Pass,Behind,O_Hit_Prep,,,,
+40,Shaul_Gordon,Mojtaba_Abedini,Half_Step_Advance_Launch,Advance_Half_Step_Launch,Behind,Pass,Hit_Prep,,,,
+40,Mojtaba_Abedini,Shaul_Gordon,Advance_Half_Step_Launch,Advance_Stop,Pass,On,Attack,,,,
+40,Shaul_Gordon,Mojtaba_Abedini,Advance_Stop,Advance_Half_Step_Launch,On,Pass,O_Attack,,,,
+40,Mojtaba_Abedini,Shaul_Gordon,Half_Step_Advance_Launch,Advance_Stop,On,On,Attack,,,,
+40,Shaul_Gordon,Mojtaba_Abedini,Advance_Stop,Half_Step_Advance_Launch,On,On,O_Attack,,,,
+41,Nikolasz_Iliasz,Hijiki_Kato,Advance_Stop,Advance_Launch,Behind,Pass,O_Attack,,,,
+41,Hijiki_Kato,Nikolasz_Iliasz,Advance_Launch,Advance_Stop,Pass,Behind,Attack,,,,
+41,Nikolasz_Iliasz,Hijiki_Kato,Advance_Half_Step_Launch,Advance_Launch,Behind,On,O_Attack,,,,
+41,Hijiki_Kato,Nikolasz_Iliasz,Advance_Launch,Advance_Half_Step_Launch,On,Behind,Attack,,,,
+41,Nikolasz_Iliasz,Hijiki_Kato,Advance_Launch,Advance_Launch,On,On,Attack,,,,
+41,Hijiki_Kato,Nikolasz_Iliasz,Advance_Launch,Advance_Launch,On,On,O_Attack,,,,
+41,Nikolasz_Iliasz,Hijiki_Kato,Advance_Stop,Advance_Stop,Behind,On,O_Take_Over,1,Mid,Advance_Launch,Counter_Attack
+41,Hijiki_Kato,Nikolasz_Iliasz,Advance_Stop,Advance_Stop,On,Behind,Take_Over,1,Mid,Advance_Launch,Counter_Attack
+41,Nikolasz_Iliasz,Hijiki_Kato,Double_Advance_Stop,Double_Advance_Launch,Pass,On,O_Attack,,,,
+41,Hijiki_Kato,Nikolasz_Iliasz,Double_Advance_Launch,Double_Advance_Stop,On,Pass,Attack,,,,
+41,Nikolasz_Iliasz,Hijiki_Kato,Advance_Stop,Advance_Launch,On,On,O_Parry,,,,
+41,Hijiki_Kato,Nikolasz_Iliasz,Advance_Launch,Advance_Stop,On,On,Parry,,,,
